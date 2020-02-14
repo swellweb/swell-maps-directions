@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Plugin name: Swell Maps Directions
  * Text Domain: swell-maps-directions
@@ -9,4 +10,7 @@
  * Version: 1.0
  **/
 
- ?>
+define  ("PLUGIN_URL", get_plugin_url() );
+define  ("PLUGIN_PATH", get_plugin_path() );
+
+?>

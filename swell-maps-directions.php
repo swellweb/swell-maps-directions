@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Plugin name: Swell Maps Directions
  * Text Domain: swell-maps-directions
@@ -9,7 +8,5 @@
  * Author: SWELLWEB
  * Version: 1.0
  **/
-
- 
 
  ?>

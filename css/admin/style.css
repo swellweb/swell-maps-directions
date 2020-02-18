@@ -1,0 +1,33 @@
+.swmaps-icons {
+    position: absolute;
+    background: #fff;
+    padding: 0;
+    border: 1px solid #ddd;
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+    opacity: 0;
+    visibility: hidden;
+    transition: .8s linear;
+    z-index:200;
+}
+.render-swmaps-icons {
+    padding: 7px;
+    border: 1px solid #7e8993;
+    border-radius: 5px;
+    color: #777;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.swmaps-icons li:hover{
+    background: red;
+}
+
+.open-box{
+   height: auto;
+   overflow: hidden;
+   opacity: 1;
+   visibility: visible;
+   transition: .8s linear;
+}
